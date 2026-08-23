@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "Flutter (lib\\views\\buttonNav\\navPages\\order\\update_order.dart)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib\\views\\buttonNav\\navPages\\order\\update_order.dart"
+    }
+  ]
+}

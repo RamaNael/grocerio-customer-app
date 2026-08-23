@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569983785598",
+    "project_id": "snapshopecommerceapp-e3cc1",
+    "storage_bucket": "snapshopecommerceapp-e3cc1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569983785598:android:f1c55c4c2f88b042d7162f",
+        "android_client_info": {
+          "package_name": "com.rama.snapecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfyFoEb6MpK9HCtPzqLRsSi0TBgAOLTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
