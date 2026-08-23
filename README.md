@@ -296,9 +296,8 @@ Developed as part of the **Grocerio** grocery e-commerce system.
 
 Replace the placeholders below before publishing:
 
-- **Developer:** `YOUR NAME`
-- **GitHub:** `https://github.com/YOUR_USERNAME`
-- **LinkedIn:** `YOUR_LINKEDIN_URL`
+- **Developer:** `RamaNael`
+- **GitHub:** `https://github.com/RamaNael`
 
 ---
 
