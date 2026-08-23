@@ -294,7 +294,6 @@ Contributions and suggestions are welcome. A typical contribution workflow is:
 
 Developed as part of the **Grocerio** grocery e-commerce system.
 
-Replace the placeholders below before publishing:
 
 - **Developer:** `RamaNael`
 - **GitHub:** `https://github.com/RamaNael`
