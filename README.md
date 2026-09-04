@@ -33,7 +33,7 @@ A customer-facing grocery shopping app built with **Flutter** and **Firebase**. 
 
 | Checkout |
 |---|
-| <img src="Screenshots/checkout.png" width="220"/> |
+| <img src="Screenshots/checkout.jpeg" width="220"/> |
 
 ---
 
