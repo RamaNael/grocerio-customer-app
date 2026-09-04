@@ -21,15 +21,19 @@ A customer-facing grocery shopping app built with **Flutter** and **Firebase**. 
 
 | Sign In | Create Account | Home |
 |---|---|---|
-| <img src="screenshots/signin.jpeg" width="220"/> | <img src="screenshots/signup.jpeg" width="220"/> | <img src="screenshots/home.jpeg" width="220"/> |
+| <img src="Screenshots/signin.jpeg" width="220"/> | <img src="Screenshots/signup.jpeg" width="220"/> | <img src="Screenshots/home.jpeg" width="220"/> |
 
 | Categories & Offers | Cart | Orders |
 |---|---|---|
-| <img src="screenshots/home_categories.jpeg" width="220"/> | <img src="screenshots/cart.jpeg" width="220"/> | <img src="screenshots/orders.jpeg" width="220"/> |
+| <img src="Screenshots/home_categories.jpeg" width="220"/> | <img src="Screenshots/cart.jpeg" width="220"/> | <img src="Screenshots/orders.jpeg" width="220"/> |
 
 | Profile | Coupons & Offers | Personal Information |
 |---|---|---|
-| <img src="screenshots/profile.jpeg" width="220"/> | <img src="screenshots/coupons.jpeg" width="220"/> | <img src="screenshots/personal_info.jpeg" width="220"/> |
+| <img src="Screenshots/profile.jpeg" width="220"/> | <img src="Screenshots/coupons.jpeg" width="220"/> | <img src="Screenshots/personal_info.jpeg" width="220"/> |
+
+| Checkout |
+|---|
+| <img src="Screenshots/checkout.png" width="220"/> |
 
 ---
 
